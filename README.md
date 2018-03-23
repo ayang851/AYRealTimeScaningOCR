@@ -1,0 +1,2 @@
+# AYRealTimeScaningOCR
+RealTimeScaningOCR
